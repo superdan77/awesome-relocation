@@ -97,6 +97,7 @@ This list is about the move itself, not about visa rules. Every entry links to t
 - [Spotahome](https://www.spotahome.com) - Rentals booked online after a video viewing, aimed at people moving from abroad.
 - [WG-Gesucht](https://www.wg-gesucht.de) - Main German site for shared flats and sublets, with an English interface.
 - [Wunderflats](https://www.wunderflats.com) - Furnished mid-term rentals in Germany that come with a registration-ready contract.
+- [yumpara](https://yumpara.com) - Rooms and studio flats rented directly from the person who has them, with no agency and no commission.
 - [Zillow](https://www.zillow.com) - Main US portal for rentals and home purchases.
 
 ## Banking and Money Transfer
