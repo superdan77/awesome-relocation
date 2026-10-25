@@ -30,6 +30,7 @@ This list is about the move itself, not about visa rules. Every entry links to t
 - [Japan Dev](https://japan-dev.com) - Curated software jobs at Japanese companies that hire internationally.
 - [Landing.jobs](https://landing.jobs) - Tech jobs in Portugal and the rest of Europe, with relocation and remote filters.
 - [Make it in Germany Job Listings](https://www.make-it-in-germany.com/en/jobs/job-listings) - Federal government job search for skilled workers from outside the EU.
+- [Move2Europe](https://move2europe.eu) - Paid job search tool for jobs in Europe that marks each job's visa sponsorship signal and its source, with a 14-day free trial.
 - [Relocate.me](https://relocate.me) - Curated tech jobs where the employer pays for relocation, with visa and family details on each listing.
 - [SwissDevJobs](https://www.swissdevjobs.ch) - Developer jobs in Switzerland with published salary ranges.
 - [TokyoDev](https://tokyodev.com) - Software jobs in Japan for English speakers, with visa sponsorship marked per listing.
